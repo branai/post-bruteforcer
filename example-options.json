@@ -1,0 +1,7 @@
+{
+	"url": "https://foo.com/path",
+	"invalidResponse":"The entered key is invalid.",
+	"data":"key={}",
+	"charNum":5,
+	"charSet":"abcdef0123456789"
+}
